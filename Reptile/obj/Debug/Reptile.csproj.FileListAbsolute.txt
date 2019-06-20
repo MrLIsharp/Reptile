@@ -1,0 +1,13 @@
+G:\新建文件夹\Reptile\Reptile\bin\Debug\Reptile.exe.config
+G:\新建文件夹\Reptile\Reptile\bin\Debug\Reptile.exe
+G:\新建文件夹\Reptile\Reptile\bin\Debug\Reptile.pdb
+G:\新建文件夹\Reptile\Reptile\obj\Debug\Reptile.csprojAssemblyReference.cache
+G:\新建文件夹\Reptile\Reptile\obj\Debug\Reptile.csproj.CoreCompileInputs.cache
+G:\新建文件夹\Reptile\Reptile\obj\Debug\Reptile.exe
+G:\新建文件夹\Reptile\Reptile\obj\Debug\Reptile.pdb
+G:\新建文件夹\Reptile\Reptile\bin\Debug\UpLoadService.exe
+G:\新建文件夹\Reptile\Reptile\bin\Debug\UpLoadService.pdb
+G:\新建文件夹\Reptile\Reptile\bin\Debug\UpLoadService.exe.config
+G:\新建文件夹\Reptile\Reptile\obj\Debug\Reptile.csproj.CopyComplete
+G:\新建文件夹\Reptile\Reptile\obj\Debug\Reptile.Form1.resources
+G:\新建文件夹\Reptile\Reptile\obj\Debug\Reptile.csproj.GenerateResource.cache

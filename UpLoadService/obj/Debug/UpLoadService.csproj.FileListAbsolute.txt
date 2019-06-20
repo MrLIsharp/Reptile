@@ -1,0 +1,9 @@
+G:\新建文件夹\Reptile\UpLoadService\obj\Debug\UpLoadService.csprojAssemblyReference.cache
+G:\新建文件夹\Reptile\UpLoadService\obj\Debug\UpLoadService.csproj.CoreCompileInputs.cache
+G:\新建文件夹\Reptile\UpLoadService\bin\Debug\UpLoadService.exe.config
+G:\新建文件夹\Reptile\UpLoadService\bin\Debug\UpLoadService.exe
+G:\新建文件夹\Reptile\UpLoadService\bin\Debug\UpLoadService.pdb
+G:\新建文件夹\Reptile\UpLoadService\obj\Debug\UpLoadService.exe
+G:\新建文件夹\Reptile\UpLoadService\obj\Debug\UpLoadService.pdb
+G:\新建文件夹\Reptile\UpLoadService\obj\Debug\UpLoadService.ProjectInstaller.resources
+G:\新建文件夹\Reptile\UpLoadService\obj\Debug\UpLoadService.csproj.GenerateResource.cache
